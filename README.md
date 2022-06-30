@@ -1,6 +1,6 @@
 # **Compilers**
 
-This repository contains work developed in the Compilers course @ IST.
+This repository contains work developed in the Compilers 2021/2022 course @ IST.
 
 Author | Github
 -------|-------
